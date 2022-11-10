@@ -1,2 +1,2 @@
-# Startup_Funding
-Repository for sprint 2 project Startup Funding. 
+# GETTING INSIGHTS OUT OF INDIAN STARTUP CULTURE
+Repository for sprint 2 project GETTING INSIGHTS OUT OF INDIAN STARTUP CULTURE. 
